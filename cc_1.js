@@ -4,9 +4,9 @@ let employeeName = "John Snow";
 const employeeID = 213;
 var isActive = true;
 
-console.log(employeeName, typeoff(employeeName));
-console.log(employeeID, typeoff(employeeID));
-console.log(isActive, typeoff(isActive));
+console.log(employeeName, typeof(employeeName));
+console.log(employeeID, typeof(employeeID));
+console.log(isActive, typeof(isActive));
 
 
 
@@ -19,5 +19,5 @@ const productDetails = {
     inStock: 50, 
 }
 
-console.log(products, typeoff(products))
-console.log(productDetails, typeoff(productDetails))
+console.log(products, typeof(products))
+console.log(productDetails, typeof(productDetails))

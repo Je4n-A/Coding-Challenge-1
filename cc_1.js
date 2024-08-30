@@ -59,3 +59,18 @@ console.log(employeeScore1 === employeeScore2)
 
 console.log(employeeScore1 !== employeeScore2)
 
+//Task 5 Logical Operators 
+
+let hasKeyCard = true;
+let hasPermission = false; 
+
+let Control_room1 = hasKeyCard && hasPermission;
+let Control_room2 = hasKeyCard || hasPermission
+let Denied = !Control_room2
+console.log("Access Control Room 1", Control_room1);
+
+console.log("Access Control Room 2", Control_room2);
+
+console.log("Denied Access Control Room 2",Denied);
+
+

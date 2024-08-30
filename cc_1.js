@@ -39,7 +39,7 @@ console.log("Updated balance", accountBalance);
 accountBalance /= 3;
 console.log("Updated Balance", accountBalance);
 
-accountBalance %= 1;
+accountBalance %= 7;
 console.log("Updated Balance", accountBalance);
 
 //Task 4: Comparison Operators

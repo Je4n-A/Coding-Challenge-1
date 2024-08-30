@@ -36,6 +36,9 @@ console.log("Updated Balance", accountBalance);
 accountBalance *= 20;
 console.log("Updated balance", accountBalance);
 
-accountBalance %= 2;
+accountBalance /= 3;
+console.log("Updated Balance", accountBalance);
+
+accountBalance %= 1;
 console.log("Updated Balance", accountBalance);
 

@@ -21,3 +21,21 @@ const productDetails = {
 
 console.log(products, typeof(products))
 console.log(productDetails, typeof(productDetails))
+
+//Task 3: Assignment Operators
+
+let accountBalance = 2000.00;
+console.log("Initial balance",accountBalance);
+
+accountBalance += 50;
+console.log("Updated balance:", accountBalance);
+
+accountBalance -= 100;
+console.log("Updated Balance", accountBalance);
+
+accountBalance *= 20;
+console.log("Updated balance", accountBalance);
+
+accountBalance %= 2;
+console.log("Updated Balance", accountBalance);
+

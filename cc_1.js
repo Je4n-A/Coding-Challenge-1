@@ -71,6 +71,6 @@ console.log("Access Control Room 1", Control_room1);
 
 console.log("Access Control Room 2", Control_room2);
 
-console.log("Denied Access Control Room 2",Denied);
+console.log("Denied Access Control Room 2", Denied);
 
 
